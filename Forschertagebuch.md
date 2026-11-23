@@ -28,6 +28,8 @@ Kopiere den Inhalt des Blocks und füge ihn unter **Einträge** ein. Ersetze die
 
 <!-- Neue Einträge hier einfügen, der neueste zuerst. -->
 
+2026-11-23 - Erstellung des GitHub-Repositories und Einladung der Lehrkraft  
+
 ## Beispiel
 
 ### 2026-11-06 – Vergleich von zwei Modellen planen
